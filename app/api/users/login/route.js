@@ -50,6 +50,6 @@ export async function POST(request){
         return response;
 
     } catch (error) {
-        
+        return NextResponse.json({error: error.response.data}, {status: 500})
     }
 }
