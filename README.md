@@ -63,7 +63,7 @@ You can try out the live demo of the app [here](https://mern-redux-socket-social
 
 ## GIF's
 
-<img src="https://github.com/nishkarsh25/NEXTJS-FullStackAuth/blob/master/Screenshots/ss7.gif" alt="Screenshot 1" width="1000"> 
+<img src="https://github.com/nishkarsh25/NEXTJS-FullStackAuth/blob/master/Screenshots/ss7.png" alt="Screenshot 1" width="1000"> 
 
 ## Technologies Used
 
