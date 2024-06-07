@@ -38,6 +38,6 @@ export const sendEmail = async({email, emailType, userId}) => {
         return mailresponse;
 
     } catch (error) {
-        
+        throw new Error(error.message);
     }
 };
