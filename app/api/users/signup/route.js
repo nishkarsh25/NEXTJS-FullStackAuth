@@ -9,5 +9,28 @@ import { sendEmail } from "@/app/(helpers)/mailer";
 
 
 export async function POST(request) {
-    
+    try {
+        await connect()
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+       
+
+
+
+
+    } catch (error) {
+        
+
+    }
 }
