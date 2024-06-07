@@ -9,7 +9,13 @@ import {useRouter} from "next/navigation";
 export default function ProfilePage() {
     const router = useRouter()
     const [data, setData] = useState("nothing")
-    
+    const logout = async () => {
+        try {
+            
+        } catch (error) {
+            
+        }
+    }
 
     
 
