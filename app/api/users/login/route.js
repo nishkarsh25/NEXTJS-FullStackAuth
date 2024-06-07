@@ -47,7 +47,7 @@ export async function POST(request){
             httpOnly: true, 
             
         })
-        
+        return response;
 
     } catch (error) {
         
