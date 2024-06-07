@@ -30,7 +30,12 @@ export async function POST(request){
         }
         console.log(user);
         
-        
+        //create token data
+        const tokenData = {
+            id: user._id,
+            username: user.username,
+            email: user.email
+        }
         
         
         
