@@ -16,7 +16,7 @@ This is a web application built using Next.js, a React framework for building se
 
 ## Live Demo
 
-You can try out the live demo of the app [here](https://mern-redux-socket-socialmediaapp-2.onrender.com/).
+You can try out the live demo of the app [here](https://nextjs-fullstackauth.onrender.com/).
 
 ## Folder Structure
 
