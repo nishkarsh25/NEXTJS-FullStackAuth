@@ -29,7 +29,11 @@ export default function VerifyEmailPage() {
     }, []);
 
 
-    
+    useEffect(() => {
+        if(token.length > 0) {
+            verifyUserEmail();
+        }
+    }, [token]);
 
     
 
