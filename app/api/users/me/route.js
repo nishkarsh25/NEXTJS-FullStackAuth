@@ -6,3 +6,16 @@ import { connect } from "@/app/(dbConfig)/dbConfig";
 
 
 
+export async function GET(request){
+
+    try {
+
+        
+        
+        
+        
+    } catch (error) {
+        
+    }
+
+}
