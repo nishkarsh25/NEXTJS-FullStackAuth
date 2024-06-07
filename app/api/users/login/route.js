@@ -44,7 +44,7 @@ export async function POST(request){
             success: true,
         })
         response.cookies.set("token", token, {
-            httpOnly: true, 
+            httpOnly: true, // only server can manipulate it user can see in the browser but cant change
             
         })
         return response;
