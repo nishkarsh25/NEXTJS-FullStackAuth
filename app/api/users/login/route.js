@@ -12,7 +12,7 @@ export async function POST(request){
 
         const reqBody = await request.json()
         const {email, password} = reqBody;
-        
+        console.log(reqBody);
 
         
         
