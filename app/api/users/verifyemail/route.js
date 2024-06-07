@@ -29,7 +29,10 @@ export async function POST(request){
         user.verifyTokenExpiry = undefined;
         await user.save();
         
-        
+        return NextResponse.json({
+            message: "Email verified successfully",
+            success: true
+        })
 
 
     } catch (error) {
