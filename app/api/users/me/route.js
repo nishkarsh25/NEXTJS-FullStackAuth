@@ -12,7 +12,7 @@ export async function GET(request){
 
         await connect();
         const userId = await getDataFromToken(request);
-        
+        const user = await User.findOne({_id: userId}).select("-password");
         
     } catch (error) {
         
