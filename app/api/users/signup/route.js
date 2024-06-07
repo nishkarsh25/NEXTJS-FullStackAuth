@@ -42,7 +42,11 @@ export async function POST(request) {
         await sendEmail({ email, emailType: "VERIFY", userId: savedUser._id })
         console.log(2)
 
-       
+        return NextResponse.json({
+            message: "User created successfully",
+            success: true,
+            savedUser
+        })
 
 
 
