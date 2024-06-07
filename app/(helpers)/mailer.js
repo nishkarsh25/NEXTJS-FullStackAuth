@@ -16,7 +16,13 @@ export const sendEmail = async({email, emailType, userId}) => {
                 {forgotPasswordToken: hashedToken, forgotPasswordTokenExpiry: Date.now() + 3600000});
         }
 
-        
+        const transporter = nodemailer.createTransport({
+            service: 'gmail',
+            auth: {
+                user: process.env.GMAIL_USER,
+                pass: process.env.GMAIL_PASS
+            }
+        });
 
         
 
