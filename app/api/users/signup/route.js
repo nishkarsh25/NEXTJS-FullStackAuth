@@ -34,7 +34,8 @@ export async function POST(request) {
             password: hashedPassword
         })
 
-        
+        const savedUser = await newUser.save()
+        console.log(savedUser);
 
         
 
