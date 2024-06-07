@@ -32,7 +32,10 @@ export const sendEmail = async({email, emailType, userId}) => {
             or copy and paste the link below in your browser. <br> ${process.env.DOMAIN}/verifyemail?token=${encodedToken}
             </p>`
         };
-        
+        console.log(3)
+        const mailresponse = await transporter.sendMail(mailOptions);
+        console.log(4)
+        return mailresponse;
 
     } catch (error) {
         
