@@ -35,7 +35,13 @@ export default function LoginPage() {
         }
     }
 
-    
+    useEffect(() => {
+        if (user.email.length > 0 && user.password.length > 0) {
+            setButtonDisabled(false);
+        } else {
+            setButtonDisabled(true);
+        }
+    }, [user]);
 
     
 }
