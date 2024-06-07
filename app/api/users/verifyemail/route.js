@@ -24,7 +24,10 @@ export async function POST(request){
         }
         console.log(user);
 
-        
+        user.isVerfied = true;
+        user.verifyToken = undefined;
+        user.verifyTokenExpiry = undefined;
+        await user.save();
         
         
 
