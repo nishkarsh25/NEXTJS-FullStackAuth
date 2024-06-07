@@ -10,6 +10,8 @@ export async function POST(request){
     try {
         await connect()
 
+        const reqBody = await request.json()
+        const {email, password} = reqBody;
         
 
         
