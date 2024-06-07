@@ -8,5 +8,9 @@ export async function connect() {
         return;
     }
 
-    
+    try {
+        
+    } catch (error) {
+        
+    }
 }
