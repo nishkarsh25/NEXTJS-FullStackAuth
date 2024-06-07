@@ -49,25 +49,21 @@ You can try out the live demo of the app [here](https://mern-redux-socket-social
 ## Screenshots
 
 <!-- Include screenshots or GIFs of your app here to give users a visual representation of what your app looks like. -->
-<img src="https://github.com/nishkarsh25/NEXTJS-FullStackAuth/blob/main/Screenshots/ss1.png" alt="Screenshot 1" width="1000"> 
+<img src="https://github.com/nishkarsh25/NEXTJS-FullStackAuth/blob/master/Screenshots/ss1.png" alt="Screenshot 1" width="1000"> 
 
-<img src="https://github.com/nishkarsh25/NEXTJS-FullStackAuth/blob/main/Screenshots/ss2.png" alt="Screenshot 1" width="1000"> 
+<img src="https://github.com/nishkarsh25/NEXTJS-FullStackAuth/blob/master/Screenshots/ss2.png" alt="Screenshot 1" width="1000"> 
 
-<img src="https://github.com/nishkarsh25/NEXTJS-FullStackAuth/blob/main/Screenshots/ss3.png" alt="Screenshot 1" width="1000"> 
+<img src="https://github.com/nishkarsh25/NEXTJS-FullStackAuth/blob/master/Screenshots/ss3.png" alt="Screenshot 1" width="1000"> 
 
-<img src="https://github.com/nishkarsh25/NEXTJS-FullStackAuth/blob/main/Screenshots/ss4.png" alt="Screenshot 1" width="1000"> 
+<img src="https://github.com/nishkarsh25/NEXTJS-FullStackAuth/blob/master/Screenshots/ss4.png" alt="Screenshot 1" width="1000"> 
 
-<img src="https://github.com/nishkarsh25/NEXTJS-FullStackAuth/blob/main/Screenshots/ss5.png" alt="Screenshot 1" width="1000"> 
+<img src="https://github.com/nishkarsh25/NEXTJS-FullStackAuth/blob/master/Screenshots/ss5.png" alt="Screenshot 1" width="1000"> 
 
-<img src="https://github.com/nishkarsh25/NEXTJS-FullStackAuth/blob/main/Screenshots/ss6.png" alt="Screenshot 1" width="1000"> 
-
-<img src="https://github.com/nishkarsh25/NEXTJS-FullStackAuth/blob/main/Screenshots/ss7.png" alt="Screenshot 1" width="1000"> 
-
-<img src="https://github.com/nishkarsh25/NEXTJS-FullStackAuth/blob/main/Screenshots/ss8.png" alt="Screenshot 1" width="1000"> 
+<img src="https://github.com/nishkarsh25/NEXTJS-FullStackAuth/blob/master/Screenshots/ss6.png" alt="Screenshot 1" width="1000"> 
 
 ## GIF's
 
-<img src="https://github.com/nishkarsh25/NEXTJS-FullStackAuth/blob/main/Screenshots/ss9.gif" alt="Screenshot 1" width="1000"> 
+<img src="https://github.com/nishkarsh25/NEXTJS-FullStackAuth/blob/master/Screenshots/ss7.gif" alt="Screenshot 1" width="1000"> 
 
 ## Technologies Used
 
@@ -308,12 +304,6 @@ This project wouldn't be possible without the contributions of the following:
 
 - **FontAwesome**: A popular icon library providing a vast collection of icons for web development. Visit [FontAwesome](https://fontawesome.com/) for more information.
 
-- **Netlify**: Netlify provides seamless deployment and hosting solutions, making it easy to deploy web applications and share them with the world. Visit [Netlify](https://www.netlify.com/) for more information.
-
-- **Render**: Render offers a modern cloud platform for deploying and running web applications, databases, and other services. Visit [Render](https://render.com/) for more information.
-
-- **MongoDB Atlas**: MongoDB Atlas is a fully managed cloud database service for modern applications. Visit [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) for more information.
-
 - **React Router**: React Router is a library for routing in React applications, allowing for navigation between different components. Visit [React Router](https://reactrouter.com/) for more information.
 
 - **Axios**: Axios is a promise-based HTTP client for making asynchronous requests in JavaScript applications. Visit [Axios](https://axios-http.com/) for more information.
@@ -321,6 +311,12 @@ This project wouldn't be possible without the contributions of the following:
 - **Mongoose**: Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js, providing a straightforward schema-based solution for modeling application data. Visit [Mongoose](https://mongoosejs.com/) for more information.
 
 - **Node Mailer**: Nodemailer is a module for Node.js applications that allows sending emails. It is a powerful and easy-to-use module for sending email using Node.js. Visit [Nodemailer](https://nodemailer.com/about/) for more information.
+
+- **Netlify**: Netlify provides seamless deployment and hosting solutions, making it easy to deploy web applications and share them with the world. Visit [Netlify](https://www.netlify.com/) for more information.
+
+- **Render**: Render offers a modern cloud platform for deploying and running web applications, databases, and other services. Visit [Render](https://render.com/) for more information.
+
+- **MongoDB Atlas**: MongoDB Atlas is a fully managed cloud database service for modern applications. Visit [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) for more information
 
 
 ## Author
