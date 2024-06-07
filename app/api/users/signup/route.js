@@ -12,7 +12,10 @@ export async function POST(request) {
     try {
         await connect()
 
-        
+        const reqBody = await request.json()
+        const { username, email, password } = reqBody
+
+        console.log(reqBody);
 
         
 
