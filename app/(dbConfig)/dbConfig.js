@@ -9,6 +9,7 @@ export async function connect() {
     }
 
     try {
+        const db = await mongoose.connect(process.env.MONGO_URI);
         
     } catch (error) {
         
