@@ -16,6 +16,8 @@ export async function connect() {
             console.log('MongoDB connected successfully');
         }
     } catch (error) {
-        
+        console.log('Something went wrong!');
+        console.log(error);
+        throw new Error('Failed to connect to MongoDB');
     }
 }
