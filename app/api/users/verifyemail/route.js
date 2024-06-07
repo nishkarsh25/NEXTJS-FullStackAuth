@@ -13,7 +13,9 @@ export async function POST(request){
 
         await connect()
 
-        
+        const reqBody = await request.json()
+        const {token} = reqBody
+        console.log(token);
 
         
 
