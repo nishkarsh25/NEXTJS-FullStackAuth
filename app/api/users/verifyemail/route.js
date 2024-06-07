@@ -9,6 +9,23 @@ import User from "@/app/(models)/userModel";
 
 export async function POST(request){
 
-    
+    try {
+
+        await connect()
+
+        
+
+        
+
+        
+
+        
+        
+        
+
+
+    } catch (error) {
+        
+    }
 
 }
