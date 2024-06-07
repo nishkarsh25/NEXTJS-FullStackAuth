@@ -10,7 +10,7 @@ export async function GET(request){
 
     try {
 
-        
+        await connect();
         
         
         
