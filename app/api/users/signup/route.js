@@ -8,3 +8,6 @@ import { sendEmail } from "@/app/(helpers)/mailer";
 
 
 
+export async function POST(request) {
+    
+}
