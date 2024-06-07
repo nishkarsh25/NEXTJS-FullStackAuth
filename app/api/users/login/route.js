@@ -7,5 +7,22 @@ import jwt from "jsonwebtoken";
 
 
 export async function POST(request){
-    
+    try {
+        await connect()
+
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+    } catch (error) {
+        
+    }
 }
