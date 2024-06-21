@@ -16,7 +16,7 @@ This is a web application built using Next.js, a React framework for building se
 
 ## Live Demo
 
-You can try out the live demo of the app [here](https://nextjs-fullstackauth.onrender.com/).
+You can try out the live demo of the app [here](https://nextjs-full-stack-auth-peach.vercel.app/login).
 
 ## Folder Structure
 
